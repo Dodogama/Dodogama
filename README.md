@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dodogama
-- 👀 I’m interested in computer vision
+- 👀 I’m interested in machine learning and big data
 - 🌱 I’m currently learning how to not be a scrub programmer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on science!
+- 📫 How to reach me... good question... linkedin?
 
 <!---
 Dodogama/Dodogama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
