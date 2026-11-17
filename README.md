@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dodogama
-- 👀 I’m interested in machine learning and big data
-- 🌱 I’m currently learning how to not be a scrub programmer
-- 💞️ I’m looking to collaborate on science!
+- 👀 I’m interested in machine learning and big data (back in 2020)
+- 🌱 I’m currently learning how to not be a scrub programmer (failed)
+- 💞️ I’m looking to collaborate on science! (nope)
 - 📫 How to reach me... good question... linkedin?
 
 <!---
